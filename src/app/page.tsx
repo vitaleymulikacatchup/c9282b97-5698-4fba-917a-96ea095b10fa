@@ -302,7 +302,7 @@ export default function LandingPage() {
                 { label: "Shipping Info", href: "faq" }
               ]
             }
-          ]
+          ]}
         />
       </div>
     </ThemeProvider>
