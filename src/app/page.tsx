@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -86,7 +86,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764324996169-lxls0hkc.jpg",
               imageAlt: "Professional graded Mario card"
             }
-          ]
+          ]}
           textboxLayout="default"
           animationType="slide-up"
         />
@@ -118,7 +118,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764325000726-suu5q6yk.jpg",
               imageAlt: "Gold Mario rare card"
             }
-          ]
+          ]}
           textboxLayout="default"
           gridVariant="uniform-all-items-equal"
           animationType="scale-rotate"
@@ -150,7 +150,7 @@ export default function LandingPage() {
               value: "4.9★",
               description: "Customer Rating"
             }
-          ]
+          ]}
           textboxLayout="default"
           gridVariant="uniform-all-items-equal"
           animationType="opacity"
@@ -198,7 +198,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764325006843-dt19ccex.jpg",
               imageAlt: "Portrait of Emma Rodriguez"
             }
-          ]
+          ]}
           textboxLayout="default"
           gridVariant="uniform-all-items-equal"
           animationType="blur-reveal"
@@ -240,7 +240,7 @@ export default function LandingPage() {
               title: "How do I store my cards properly?",
               content: "Store cards in protective sleeves in a cool, dry place away from sunlight. We recommend using acid-free storage boxes and maintaining a stable temperature and humidity level."
             }
-          ]
+          ]}
           textboxLayout="default"
           animationType="smooth"
         />
